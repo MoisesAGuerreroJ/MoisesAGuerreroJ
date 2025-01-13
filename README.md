@@ -19,6 +19,7 @@ Data Engineer & Data Scientist | 4+ years in Big Data | Optimizing pipelines and
 - **Bachelor’s Degree in Electronics Engineering**, Universidad Industrial de Santander
 
 ### Certifications 📜
+- **Professional Data Engineer Certification**, Google Cloud, Dec 2024
 - **Databricks Certified Data Engineer Associate**, Databricks,  Sept 2024
 - **CDP Certified Data Analyst**, Cloudera, May 2024
 - **Associate Cloud Engineer**, Google Cloud, Dec 2022

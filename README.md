@@ -3,7 +3,7 @@
 ## 🚀 A passionate Data Engineer and Data Scientist
 
 ### About Me 👨‍💻
-Data Engineer & Data Scientist | 5+ years in Big Data | Optimizing pipelines and integrating open-source tools for efficient data processing.
+Data Engineer & Data Scientist | 6+ years in Big Data | Optimizing pipelines and integrating open-source tools for efficient data processing.
 
 ### Professional Highlights 🌟
 - **Data Engineer** - Woombat Consulting Group, Colombia (2020 - 2025)
